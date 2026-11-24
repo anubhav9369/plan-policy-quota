@@ -1,0 +1,1 @@
+{"id":"default","limits":{"max_calls_per_tool":{"save":3,"search":5},"max_external_sends":1,"max_irreversible":2,"max_steps":10,"max_total_cost":5.0},"version":"1.0.0"}
